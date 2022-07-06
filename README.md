@@ -2,7 +2,7 @@
 A collection of junior tech internships targeted towards first and second year university students 
 
 | Name  | Year | Length | Opens | Deadline | Requirements |
-|---|----|-----|--------|--------|-------|
+|---|----|------|--------|--------|-------|
 | <a href="https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram">Microsoft Explore</a> | Fresh/Soph | 12 weeks | August | Date | Taken an Intro to CS course; one semester of calculus |
 | <a href="https://buildyourfuture.withgoogle.com/programs/step">Google STEP</a> | Fresh/Soph | 12 weeks | September | Date | Programming experience in C, C++, Java, JavaScript or Python; taken an Intro to CS course |
 | <a href="https://www.metacareers.com/careerprograms/pathways/metauniversity">Metas University</a> | Fresh/Soph | 10 weeks | August | Date | |
