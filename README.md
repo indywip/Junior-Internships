@@ -2,7 +2,7 @@
 A collection of junior SWE internships targeted towards first and second year university students 
 
 | Name  |  Year | Position | Opens | Deadline | Other Info |
-|---|----|-----|--------|----|
+|---|----|-----|--------|--------|----|
 | <a href="https://www.facebook.com/careers/FBUEngineering">Facebook University</a> | Fresh/Soph | SDE | August 31 | Date | |
 | <a href="https://www.facebook.com/careers/fbuanalytics">Facebook University</a> | Soph | Analytics | Spetember 15 | Date | |
 | <a href="https://www.facebook.com/careers/fbuproductdesign">Facebook University</a> | Soph | Product Design | Spetember 15 | Date | |
