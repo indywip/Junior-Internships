@@ -1,5 +1,5 @@
 # Junior Tech Internships
-A collection of junior tech internships targeted towards first and second year university students 
+A collection of junior tech/software internships in North America mainly targeted towards first and second year university students 
 
 | Name  | Year | Length | Opens | Deadline | Requirements |
 |---|----|------|--------|--------|------|
