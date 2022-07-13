@@ -12,4 +12,4 @@ A collection of junior tech/software internships in North America mainly targete
 | <a href="https://careers.twitter.com/en/early-career.html">Twitter Academy</a> | Soph | 12 weeks | September | Date | |
 | <a href="https://www.dropbox.com/jobs/teams/emerging-talent">Dropbox Launch</a> | Soph | 12 weeks | August | Date | |
 | <a href="https://www.palantir.com/careers/students/path/">Palantir Path</a> | Soph | 10-12 weeks | August | Date | |
-| <a href="https://careers.duolingo.com/students">Duolingo Thrive</a> | Soph | 10 weeks | August | Date | |
+| <a href="https://careers.duolingo.com/students">Duolingo Thrive</a> | Soph | 10 weeks | August | Date | No prior tech internship experience |
